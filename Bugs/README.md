@@ -1,4 +1,4 @@
-# Bug REporting (via Bugzilla)
+# Bug Reporting (via Bugzilla)
 ## Example bugs found and reported
 
 These bugs are logged against multile sites, including Deanza.edu and ResumeSmarts.com
